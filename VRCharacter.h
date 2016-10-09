@@ -6,7 +6,7 @@
 #include "VRCharacter.generated.h"
 
 UCLASS()
-class SHOOTERGAME_API AVRCharacter : public ACharacter
+class MYGAME_API AVRCharacter : public ACharacter
 {
 	GENERATED_BODY()
 
